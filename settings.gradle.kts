@@ -12,7 +12,7 @@ pluginManagement {
     }
 }
 plugins {
-    id("gg.meza.stonecraft") version "1.2.0"
+    id("gg.meza.stonecraft") version "1.12.1"
     id("dev.kikugie.stonecutter") version "0.6-beta.2"
 }
 
